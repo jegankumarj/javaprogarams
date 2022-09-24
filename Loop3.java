@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Loop3 {
 
 	public static void main(String[] args) {
-		      int n,s=0;
+		      int n;
 		      Scanner sc=new Scanner(System.in);
 		      System.out.println("print factors");
 		      System.out.println("Enter a Num");

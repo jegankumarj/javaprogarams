@@ -3,7 +3,6 @@ package com.loop;
 import java.util.Scanner;
 
 
-
 public class FactorialNum {
 
 	public static void main(String[] args) {
